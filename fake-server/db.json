@@ -1,0 +1,44 @@
+{
+  "courses": [
+    {
+      "title": "Angular",
+      "summary": "client side framework",
+      "id": 1
+    },
+    {
+      "title": "xbccb",
+      "summary": "cxbbxccb",
+      "id": 6
+    },
+    {
+      "title": "gsd",
+      "summary": "sdgsdgds",
+      "id": 7
+    },
+    {
+      "title": "wgsdgd",
+      "summary": "sdgdsdg",
+      "id": 8
+    },
+    {
+      "title": "acbde",
+      "summary": "abcde",
+      "id": 9
+    },
+    {
+      "title": "X",
+      "summary": "summar X",
+      "id": 10
+    },
+    {
+      "title": "y",
+      "summary": "summary y",
+      "id": 11
+    },
+    {
+      "title": "Z",
+      "summary": "summary Z",
+      "id": 12
+    }
+  ]
+}
